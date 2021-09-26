@@ -1,0 +1,6 @@
+ G_Client = 0x112D9328
+XPScaleBase = 0x11309318 
+GameSetting = 0x113D80F0 
+SessionModeStats = 0x1912F658 
+EntryStats = 0x138E3B00 
+CMDBuffer = 0xD869810
